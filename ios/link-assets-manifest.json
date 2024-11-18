@@ -1,0 +1,197 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/digital-7.ttf",
+      "sha1": "7e1cf55ecbeaaa82465624ffb32b54e85453325c"
+    },
+    {
+      "path": "assets/fonts/Inter-Regular.ttf",
+      "sha1": "26752c31bd3be24b0608ee27ac8c9a9a27245268"
+    },
+    {
+      "path": "assets/fonts/miso-bold.otf",
+      "sha1": "6a5b4c5386eee87d026298293e3d8459652eba8f"
+    },
+    {
+      "path": "assets/fonts/miso-light.otf",
+      "sha1": "46919c7197a0abfa945927d75d5cf001df0b7698"
+    },
+    {
+      "path": "assets/fonts/miso.otf",
+      "sha1": "c5f68fdea03baf9c22e2c96ba2f3150759ef697a"
+    },
+    {
+      "path": "assets/fonts/Roboto-Black.ttf",
+      "sha1": "ee52f7cf8e54f3ee2afbc474a352d5c19514d9c1"
+    },
+    {
+      "path": "assets/fonts/Roboto-BlackItalic.ttf",
+      "sha1": "94ba47a5510d3e21ae4db0da0425b855686de586"
+    },
+    {
+      "path": "assets/fonts/Roboto-Bold.ttf",
+      "sha1": "3dd713113ff2d79b94d2df343e2e28fa8e7279cf"
+    },
+    {
+      "path": "assets/fonts/Roboto-BoldItalic.ttf",
+      "sha1": "60b9860b7fc93d6b0b322f170634105bc6a8cc8d"
+    },
+    {
+      "path": "assets/fonts/Roboto-Italic.ttf",
+      "sha1": "dc6756127707ab2d6e388a6023087351fa41999c"
+    },
+    {
+      "path": "assets/fonts/Roboto-Light.ttf",
+      "sha1": "92cc3b6f9440193c12fd02ed690e434d685a9cc8"
+    },
+    {
+      "path": "assets/fonts/Roboto-LightItalic.ttf",
+      "sha1": "a0440f60a96a59c4105c3eb639cb2573826f84fe"
+    },
+    {
+      "path": "assets/fonts/Roboto-Medium.ttf",
+      "sha1": "f6783010d5def128c4a1539333324f75701d9bab"
+    },
+    {
+      "path": "assets/fonts/Roboto-MediumItalic.ttf",
+      "sha1": "e4e31e55d279a9b12c32327a60a3a65c8350e5df"
+    },
+    {
+      "path": "assets/fonts/Roboto-Regular.ttf",
+      "sha1": "096c9245b6a192d1403a82848e104a65f578a8ec"
+    },
+    {
+      "path": "assets/fonts/Roboto-Thin.ttf",
+      "sha1": "711e666e7f52210ac487c7ed81a0ac68a2b52261"
+    },
+    {
+      "path": "assets/fonts/Roboto-ThinItalic.ttf",
+      "sha1": "75ffde032d49005faa643338eda97c311ad7d316"
+    },
+    {
+      "path": "assets/images/bg_company.png",
+      "sha1": "f09a7b88a81180bb1fdb3da66f4ca0c64e14aa97"
+    },
+    {
+      "path": "assets/svg/login/eye-fill.svg",
+      "sha1": "3f39ae36317d8f75c3b804c75e41dea36c5140f5"
+    },
+    {
+      "path": "assets/svg/login/eye-slash-fill.svg",
+      "sha1": "e5612c17fedfc8350b8aae1b8c778e8c2d77af61"
+    },
+    {
+      "path": "assets/svg/login/svg-bottom.svg",
+      "sha1": "44271d476226a9cc1e2927b0e25795f0ef195930"
+    },
+    {
+      "path": "assets/svg/login/svg-top.svg",
+      "sha1": "8d7b942be901e87333a31f551ef051d6be07af87"
+    },
+    {
+      "path": "assets/svg/menu/ic_arrow_right.svg",
+      "sha1": "2ec11e6c11c628febaf36ac61d914a6e717d7504"
+    },
+    {
+      "path": "assets/svg/menu/ic_birthday.svg",
+      "sha1": "44045b6853c223be21c5f5384d6af04121f77c09"
+    },
+    {
+      "path": "assets/svg/menu/ic_book.svg",
+      "sha1": "76111c8e8171ef2254b31026aa50106df0bb0027"
+    },
+    {
+      "path": "assets/svg/menu/ic_book_2.svg",
+      "sha1": "051515b02814ac62067510ed90bcb20b01ead9ce"
+    },
+    {
+      "path": "assets/svg/menu/ic_briefcase.svg",
+      "sha1": "dd1527a8138d268094033ecbf2fe96df98cc42a8"
+    },
+    {
+      "path": "assets/svg/menu/ic_changePassword.svg",
+      "sha1": "fadd0b16c336e4b3bf88cfb1564aacf6658e63f6"
+    },
+    {
+      "path": "assets/svg/menu/ic_chat.svg",
+      "sha1": "29c53cc49a0a5a905668cb426f5dc107b490d220"
+    },
+    {
+      "path": "assets/svg/menu/ic_color_filter.svg",
+      "sha1": "03641bb7008879b40b96f5e5c6c400cda2eb4bdf"
+    },
+    {
+      "path": "assets/svg/menu/ic_document_text.svg",
+      "sha1": "430b94191167ed14f04c5f30515339627d694548"
+    },
+    {
+      "path": "assets/svg/menu/ic_drawer.svg",
+      "sha1": "46df028899902b4042d308596eed5c1e0f8164a6"
+    },
+    {
+      "path": "assets/svg/menu/ic_fingerprint.svg",
+      "sha1": "48297e72ec21a72021394dd6596d406e306bb491"
+    },
+    {
+      "path": "assets/svg/menu/ic_idea.svg",
+      "sha1": "a650b2722277c1c77bc7984c69f971a2f456511d"
+    },
+    {
+      "path": "assets/svg/menu/ic_infor_user.svg",
+      "sha1": "44c638e780c7af14be26f3b557e5dbb1da0cd01a"
+    },
+    {
+      "path": "assets/svg/menu/ic_key.svg",
+      "sha1": "6e8b2326ecb316fc4df024bba0c863bef272dbbc"
+    },
+    {
+      "path": "assets/svg/menu/ic_language.svg",
+      "sha1": "fc1d1ab1c1df8776d12d63f4643f80363a82b9b1"
+    },
+    {
+      "path": "assets/svg/menu/ic_logout.svg",
+      "sha1": "47b25629184b7b94503bf15ef1544a1fd672224b"
+    },
+    {
+      "path": "assets/svg/menu/ic_money_change.svg",
+      "sha1": "cdd8f43567d2b0ed2e80b33b63e7d5bef1a00378"
+    },
+    {
+      "path": "assets/svg/menu/ic_personel_info.svg",
+      "sha1": "ea45950d7ae891d7570ff1e8be74428c4b81c386"
+    },
+    {
+      "path": "assets/svg/menu/ic_remove_account.svg",
+      "sha1": "ff62f9271033cdd24795a4f1e864f80e637f18cd"
+    },
+    {
+      "path": "assets/svg/menu/ic_rowRight.svg",
+      "sha1": "cca97ca1738672be49e063301d077d24ee0e5d74"
+    },
+    {
+      "path": "assets/svg/menu/ic_save.svg",
+      "sha1": "b9d4bf4b9fa33d8b3ca40838d4f33ba2c8241749"
+    },
+    {
+      "path": "assets/svg/menu/ic_setting.svg",
+      "sha1": "12e20ae1b39cc106f3bddde9bd0951e7ea9a6cb5"
+    },
+    {
+      "path": "assets/svg/menu/ic_time.svg",
+      "sha1": "9a3a464c94d99ea5afa61532611767f2c1ba7b6e"
+    },
+    {
+      "path": "assets/svg/menu/ic_user.svg",
+      "sha1": "8205c7e22bf1366e82186ec1bd8c8a49568fa300"
+    },
+    {
+      "path": "assets/svg/menu/ic_user_red.svg",
+      "sha1": "128532114c8e10bcc7493c4ef62c3bfcbe9d72fe"
+    },
+    {
+      "path": "assets/svg/menu/ic_weather.svg",
+      "sha1": "b5d2e1f6e7d3331acde27255b0183aeb3743efaf"
+    }
+  ]
+}
